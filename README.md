@@ -13,7 +13,7 @@ This package provides a utility for converting SVG assets into vector graphics f
 Add the package to your `pubspec.yaml`:
 
 ```yaml
-dependencies:
+dev_dependencies:
   svg_to_vec_converter:
     git:
       url: https://github.com/ahmE1053/svg_to_vec_converter
