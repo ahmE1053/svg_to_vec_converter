@@ -16,7 +16,7 @@ Add the package to your `pubspec.yaml`:
 dependencies:
   svg_to_vec_converter:
     git:
-      url: https://github.com/your-repo/svg_to_vec_converter
+      url: https://github.com/ahmE1053/svg_to_vec_converter
 ```
 
 Run:
